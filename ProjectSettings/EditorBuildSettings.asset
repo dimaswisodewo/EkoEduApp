@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 9fa14d58c22d3da44a4cf44dc9f0183b
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: 5ec12a297075994408428e3467b4d96b
+  - enabled: 1
+    path: Assets/Scenes/MateriScene.unity
+    guid: 8ea61df55a71fda47ab173ef27119365
+  - enabled: 1
+    path: Assets/Scenes/MateriPembangunanScene.unity
+    guid: 2ac8b2756e5d9c044902aea7ed5e6053
+  - enabled: 1
+    path: Assets/Scenes/MateriPertumbuhanScene.unity
+    guid: 7b1b23d1dcb06f841857e1d01340e8ce
+  - enabled: 1
+    path: Assets/Scenes/KuisScene.unity
+    guid: 68dbdc79b10bc5941b57bb3810538d6f
+  - enabled: 1
+    path: Assets/Scenes/PetaScene.unity
+    guid: f010577440224eb44bd305e35086a450
+  - enabled: 1
+    path: Assets/Scenes/MateriPembangunan1Scene.unity
+    guid: 5b8030bfe6977c84f8d55841aec2af2d
+  - enabled: 1
+    path: Assets/Scenes/MateriPertumbuhan2Scene.unity
+    guid: 39ac54ca9701b5347973011fc04deaf3
+  - enabled: 1
+    path: Assets/Scenes/MateriPembangunan3Scene.unity
+    guid: 27142e6124a0e9343b918e0ac5d6ab3c
+  - enabled: 1
+    path: Assets/Scenes/MateriPembangunan4Scene.unity
+    guid: 6d67d489f96c59d48a1bc4c51a88fcd2
+  - enabled: 1
+    path: Assets/Scenes/MateriPertumbuhan1Scene.unity
+    guid: 5e011459c23106c44bfdc4014048f05f
+  - enabled: 1
+    path: Assets/Scenes/MateriPembangunan2Scene.unity
+    guid: 4adc47a83766b8c49a87cc0bbc4a9327
+  - enabled: 1
+    path: Assets/Scenes/ContohSoalScene.unity
+    guid: 3962c4ff5eacf33418615ace52d7ac33
+  - enabled: 1
+    path: Assets/Scenes/DaftarPustakaScene.unity
+    guid: a348a6a1492faf9458a845a87cec46bb
+  - enabled: 1
+    path: Assets/Scenes/ProfileScene.unity
+    guid: 94f99883841dd5e47a86761e1be0d253
+  - enabled: 1
+    path: Assets/Scenes/SilabusAplikasiScene.unity
+    guid: 30796a5e7f101cf4ca1df8bf50007163
+  m_configObjects: {}
